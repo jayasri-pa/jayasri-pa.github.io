@@ -1,18 +1,34 @@
 ---
 layout: default
-title: Ben Hoyt
+title: Jayasri PA
 permalink: /
 ---
 
-<img class="right" src="/images/unicycling-glory-sepia-560.jpg" alt="Ben Hoyt unicycling on his wedding day" title="Me unicycling on my wedding day" />
+<img class="right" src="/images/convocation.jpg" alt="Jayasri looking clueless in the mall" title="My clueless self in a mall" />
 
 
-# Ben Hoyt
+# Jayasri PA 
 
-I'm married to the only Franci Hoyt in the world, and we and our three lovely daughters live in Christchurch, New Zealand.
+What's Jay upto? Well... -> A first-year Ph.D student at the Department of [Computer Science and Engineering](https://www.cse.iitb.ac.in), [IIT Bombay](https://www.iitb.ac.in/)
 
-By day I'm an engineering manager and software engineer at [Canonical](https://canonical.com/) -- see my [resume/CV](/cv/).
+I am fortunate that life has `branch-taken` [@CASPER](https://casper-iitb.github.io/) spearheaded by the awesome [Prof.Biswa~~bandhan Panda~~](https://www.cse.iitb.ac.in/~biswa/). I am on a joyride of systems engineering, pondering over the intersection of microarchitecture and humanity.
 
-I've created a few open source [projects](/projects/), and I enjoy writing [technical](/writings/) and [non-technical](/writings/non-tech/) articles.
+If you share similar interests or cool ideas to discuss/learn and wanted to make friends, feel free to reach out to me! &#x1F604;
 
-I also run [Gifty Weddings](https://giftyweddings.com/), a small business that helps couples make simple wedding gift registries.
+Well that's not all, my average day is also filled with photographing street animals, jogging and lurking on discord servers making new friends. Not a fan of leg days, but yeah I still do them.
+
+## Education
+
+* Bachelor of Engineering (B.E.) - Computer Science and Engineering
+    - Graduated in 2024 with Distinction from Anna University, Chennai, India
+    - Grade Point: 9.08/10
+
+
+
+
+
+
+
+
+
+

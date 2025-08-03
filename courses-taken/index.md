@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Ben Hoyt’s Resume/CV
-permalink: /cv/
+title: Courses I've taken/taking
+permalink: /courses-taken/
 ---
-<h1 id="ben-hoyts-resumecv" class="no-print">{{ page.title }}</h1>
+<h1 id="jaysri-pas-courses" class="no-print">{{ page.title }}</h1>
 
-<blockquote>
+<!-- <blockquote>
  <p class="no-print"><b>Go to:</b>
   <a href="#summary">Summary</a> |
   <a href="#skills-what-i-do">Skills</a> |
@@ -14,10 +14,15 @@ permalink: /cv/
   <a href="#about-me">About me</a> |
   <a href="/cv/ben-hoyt-cv-resume.pdf" title="PDF version of my resume / CV">PDF</a>
  </p>
-</blockquote>
+</blockquote> -->
 
+## Fall 2025
 
-## Summary
+* [CS 683 - Advanced Computer Architecture](https://docs.google.com/spreadsheets/d/e/2PACX-1vQmwEvD-4drqZ-sI_pcfAppo91M7QgDuIcQLmbSAx1U5AnMHGzls7FevQMKaUEL_QSAJO_5xjFAjpb4/pubhtml)
+* [CS 744 - Design and Engineering of Computing Systems](https://www.cse.iitb.ac.in/~mythili/teaching/cs744_autumn2018/index.html)
+* CS 490 - UG R&D
+
+<!-- ## Summary
 
 I’m a software engineer with twenty years of experience developing web applications and services, as well as providing technical leadership for small teams of software developers.
 
@@ -110,4 +115,4 @@ I have a B.E. in Electrical and Computer Engineering, graduating from the [Unive
 
 My dad taught me how to program by teaching me the Tao of [Forth](https://en.wikipedia.org/wiki/Forth_(programming_language)). Two of my first projects were writing a [Forth compiler](https://github.com/benhoyt/third) for DOS, and creating a [small 32-bit OS](https://github.com/benhoyt/benos) in Forth. I love things small, fast, and light&nbsp;&ndash; and that’s paid off during my career.
 
-Other than that, I enjoy reading and [writing](/writings/), and I once edited a [small print magazine](/prism-magazine/). I’m into unicycling, typography, and piano. I love my wife and family. I aim to keep the commandments, but you may find me breaking the conventions.
+Other than that, I enjoy reading and [writing](/writings/), and I once edited a [small print magazine](/prism-magazine/). I’m into unicycling, typography, and piano. I love my wife and family. I aim to keep the commandments, but you may find me breaking the conventions. -->
