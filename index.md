@@ -19,8 +19,7 @@ Well that's not all, my average day is also filled with photographing street ani
 
 ## Education
 
-* Bachelor of Engineering (B.E.) - Computer Science and Engineering
-    - Graduated in 2024 with Distinction from Anna University, Chennai, India
+* Bachelor of Engineering (B.E.) - Computer Science and Engineering, 2024
     - Grade Point: 9.08/10
 
 

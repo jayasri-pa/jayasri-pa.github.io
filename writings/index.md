@@ -2,21 +2,20 @@
 layout: default
 title: Technical Writing
 permalink: /writings/
-rss_url: /writings/rss.xml
 ---
 <div style="float: right; font-size: 80%;">
-<a href="/writings/rss.xml">RSS feed</a>
+<!-- <a href="/writings/rss.xml">RSS feed</a> -->
 </div>
 
 # {{ page.title }}
 
-Below are the programming-related articles I’ve written (see also my [**non-technical writings**](/writings/non-tech/)). The list includes the guest contributions I've written for LWN.net, and tech blog articles for several of the companies I’ve worked for.
+<h2 id="y2025">2025</h2>
 
+* [PBBS Driver - Let's make it work](/writings/pbbs-bfs-driver/) presents the subtleties missing in running a PBBS benchmark driver. (August)
 
-<h2 id="y2024">2024</h2>
+<!-- * [Switching from S3 to Tigris on Fly.io](/writings/flyio-and-tigris/) describes how I moved my side project from using Amazon S3 for file hosting to using Tigris. (February) -->
 
-* [Go version performance (2024 edition)](/writings/go-version-performance-2024/) uses GoAWK to show how the speed of Go programs has improved from version 1.0 through to 1.22. (April)
-* [The One Billion Row Challenge in Go](/writings/go-1brc/) presents my nine Go solutions to this problem, which range in running time from 1m45s down to 3.4s. (March)
+<!-- * [The One Billion Row Challenge in Go](/writings/go-1brc/) presents my nine Go solutions to this problem, which range in running time from 1m45s down to 3.4s. (March)
 * [Switching from S3 to Tigris on Fly.io](/writings/flyio-and-tigris/) describes how I moved my side project from using Amazon S3 for file hosting to using Tigris. (February)
 * [*Stray Pointers* interview](/writings/stray-pointers-interview/): Jim Lawless interviewed me on his podcast (this is a transcription). We discuss Forth, C, CGI, Python, Go, and AWK. (January)
 
@@ -181,11 +180,11 @@ Below are the programming-related articles I’ve written (see also my [**non-te
 <h2 id="y1997">1997</h2>
 
 * [Lookup Tables](/writings/forth-lookup-tables/) is an article about lookup tables in Forth that I co-authored with Hans Bezemer when I was 16. My first published technical writing. (September)
+ -->
+
+<!-- ## Copyright
+
+Unless it says otherwise in the individual document, the works above are &copy;&nbsp;Ben&nbsp;Hoyt under a [Creative Commons BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/3.0/) license, which basically means you can copy and share them freely, as long as you link back to [benhoyt.com](https://benhoyt.com/), don&rsquo;t make money with them, and don&rsquo;t alter the content. Enjoy! -->
 
 
-## Copyright
-
-Unless it says otherwise in the individual document, the works above are &copy;&nbsp;Ben&nbsp;Hoyt under a [Creative Commons BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/3.0/) license, which basically means you can copy and share them freely, as long as you link back to [benhoyt.com](https://benhoyt.com/), don&rsquo;t make money with them, and don&rsquo;t alter the content. Enjoy!
-
-
-{% include sponsor.html %}
+<!-- {% include sponsor.html %} -->
