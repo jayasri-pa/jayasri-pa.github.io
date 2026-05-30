@@ -17,6 +17,6 @@ Second year Ph.D. student at [PLATO](https://www.cse.iitb.ac.in/plato/)
 [Department of Computer Science and Engineering](https://www.cse.iitb.ac.in) \\
 [Indian Institute of Technology, Bombay](https://www.iitb.ac.in)
 
-## Research Interest
+## Research Interests
 
 Static Single Assignment (SSA), Intermediate Representation (IR), Program Analysis
